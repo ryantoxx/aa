@@ -1,5 +1,1 @@
 # Generic Algorithms implementation
-
-'''
-
-'''
